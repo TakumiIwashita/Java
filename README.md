@@ -1,2 +1,2 @@
 # Java
-argo textbook source code
+algo textbook source code
